@@ -1,0 +1,3 @@
+rootProject.name = 'mov_mp4'
+
+include ':app'

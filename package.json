@@ -1,0 +1,20 @@
+{
+  "name": "ios-mov-mp4",
+  "version": "0.1.6",
+  "description": "ios把mov转mp4",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+http://192.168.31.120/hxcs-02/hxcs-02-rn-common/ios-mov-mp4.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
